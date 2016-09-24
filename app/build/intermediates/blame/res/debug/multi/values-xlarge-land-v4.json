@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+        "outputFile": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 114
                 },
                 "from": {
-                    "file": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-xlarge-land/values-xlarge-land.xml",
+                    "file": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-xlarge-land/values-xlarge-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 63,
+                        "endOffset": 343
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-xlarge-land/values-xlarge-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

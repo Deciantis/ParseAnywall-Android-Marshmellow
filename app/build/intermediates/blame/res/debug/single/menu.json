@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/Developer/Android/towBuddy1/app/src/main/res/menu/main.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/src/main/res/menu/main.xml"
     }
 ]

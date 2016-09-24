@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "outputFile": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "/Developer/Android/towBuddy1/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "file": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 58,
+                        "endOffset": 254
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Developer/Learning/Android/ParseAnywall/app/src/main/res/values-sw720dp-land/dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,

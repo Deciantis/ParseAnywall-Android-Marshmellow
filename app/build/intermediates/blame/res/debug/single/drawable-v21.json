@@ -1,10 +1,18 @@
 [
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
     }
 ]

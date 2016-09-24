@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/values-en-rCA/values-en-rCA.xml",
+        "outputFile": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/values-en-rCA/values-en-rCA.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/res/values-en-rCA/values.xml",
+                    "file": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/res/values-en-rCA/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 103,
+                        "endOffset": 391
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/values-en-rCA/values-en-rCA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/res/values-en-rCA/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

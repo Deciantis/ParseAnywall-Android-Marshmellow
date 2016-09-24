@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
     }
 ]

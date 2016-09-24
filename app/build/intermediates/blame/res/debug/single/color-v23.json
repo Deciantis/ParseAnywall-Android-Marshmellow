@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/color-v23/abc_color_highlight_material.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/color-v23/abc_color_highlight_material.xml"
     }
 ]

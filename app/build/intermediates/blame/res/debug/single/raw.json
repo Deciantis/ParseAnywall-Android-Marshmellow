@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/res/raw/gtm_analytics"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/res/raw/gtm_analytics"
     }
 ]

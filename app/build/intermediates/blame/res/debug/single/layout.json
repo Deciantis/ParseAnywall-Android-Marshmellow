@@ -1,222 +1,442 @@
 [
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_menu_layout.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_dialog_title_material.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_menu_item_layout.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout/place_autocomplete_fragment.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_lines.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/activity_welcome.xml",
-        "source": "/Developer/Android/towBuddy1/app/src/main/res/layout/activity_welcome.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_title_item.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_media.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_multichoice_material.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/activity_signup.xml",
-        "source": "/Developer/Android/towBuddy1/app/src/main/res/layout/activity_signup.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/activity_settings.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/src/main/res/layout/activity_settings.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/Developer/Android/towBuddy1/app/src/main/res/layout/activity_main.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/cast_help_text.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/layout/cast_help_text.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_icon.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout/place_autocomplete_item_prediction.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_layout.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_part_chronometer.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_popup_menu_item_layout.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_expanded_menu_layout.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout/place_autocomplete_progress.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_part_time.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/cast_help_text.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/layout/cast_help_text.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/anywall_post_item.xml",
-        "source": "/Developer/Android/towBuddy1/app/src/main/res/layout/anywall_post_item.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout/place_autocomplete_item_powered_by_google.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/mr_media_route_chooser_dialog.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_chooser_dialog.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_search_view.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/cast_intro_overlay.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/layout/cast_intro_overlay.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
-        "source": "/Developer/Android/towBuddy1/app/src/main/res/layout/activity_login.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/cast_mini_controller.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/layout/cast_mini_controller.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_simple.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_part_time.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_item_material.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_layout.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/layout/cast_tracks_chooser_dialog_layout.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_media_action.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_toolbar.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_mode_bar.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/activity_post.xml",
-        "source": "/Developer/Android/towBuddy1/app/src/main/res/layout/activity_post.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_part_time.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_mode_close_item_material.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/cast_mini_controller.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/layout/cast_mini_controller.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_activity_chooser_view.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_media_action.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/mr_media_route_chooser_dialog.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_chooser_dialog.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/cast_expanded_controller_activity.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/layout/cast_expanded_controller_activity.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/activity_signup.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/src/main/res/layout/activity_signup.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout/place_autocomplete_item_powered_by_google.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_singlechoice_material.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_up_container.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_media_cancel_action.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_alert_dialog_material.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/src/main/res/layout/activity_login.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/cast_help_text.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/layout/cast_help_text.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_big_media_narrow.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/cast_mini_controller.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/layout/cast_mini_controller.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_dialog_title_material.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_select_dialog_material.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_big_media.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout/place_autocomplete_progress.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/mr_media_route_chooser_dialog.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_chooser_dialog.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/activity_welcome.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/src/main/res/layout/activity_welcome.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_content_include.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/cast_intro_overlay.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/layout/cast_intro_overlay.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_row_layout.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/activity_settings.xml",
-        "source": "/Developer/Android/towBuddy1/app/src/main/res/layout/activity_settings.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/mr_media_route_controller_material_dialog_b.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_controller_material_dialog_b.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/mr_media_route_controller_material_dialog_b.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_controller_material_dialog_b.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/anywall_post_item.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/src/main/res/layout/anywall_post_item.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_toolbar.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_media_cancel_action.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_item_material.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout/place_autocomplete_item_prediction.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/anywall_post_item.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/src/main/res/layout/anywall_post_item.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_layout.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/layout/cast_tracks_chooser_dialog_layout.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_radio.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/activity_settings.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/src/main/res/layout/activity_settings.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout/place_autocomplete_fragment.xml"
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/Developer/Android/towBuddy1/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
-        "source": "/Developer/Android/towBuddy1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_big_media.xml"
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/cast_expanded_controller_activity.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/layout/cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_layout.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/layout/cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/cast_intro_overlay.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/layout/cast_intro_overlay.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/activity_post.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/src/main/res/layout/activity_post.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/activity_welcome.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/cast_expanded_controller_activity.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/layout/cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/activity_post.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/src/main/res/layout/activity_post.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/res/merged/debug/layout/mr_media_route_controller_material_dialog_b.xml",
+        "source": "/Developer/Learning/Android/ParseAnywall/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/res/merged/debug/layout/activity_signup.xml",
+        "source": "/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/src/main/res/layout/activity_signup.xml"
     }
 ]

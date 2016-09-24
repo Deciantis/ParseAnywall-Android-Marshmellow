@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="96777609333563"
+    token="8436425177749349382" >
+
+    <task
+        name="javac"
+        duration="10562" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1164" />
+    <task
+        name="verifier"
+        duration="29" />
+
+    <artifact
+        location="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="96777609333563" >
+        <artifact
+            location="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

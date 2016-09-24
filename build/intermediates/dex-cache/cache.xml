@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_893fb213ff89b269070ea75be12e3bc065ac5d29/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.4.0_0d53ae57be6e2098497f25535317ffe1486fb558/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-contextmanager-9.4.0_330d00d4fc6fd059d9e897d0fef6249c376951b7/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_ad652eb84f2b9bff9a4c67493136a079d3091f9e/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.4.0_728d10fb118f51189bca1c74d45eb654462672c1/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.4.0_c95f272abe90c815fb3468feea34c191b7e95a5c/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.4.0_46c3a6bd3859230db5f61e9993f8096c9634f037/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.0_bba15f1993942794f07247c7fcadf4dac72eb689/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.4.0_5880a34085e7b48abbdb6083081d0abac9c42b3b/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.4.0_9af6cacf83af5151fb598d179962f1fa5655d85a/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_b886136ab20e822879a121a5e8f0f574b44827fc/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.4.0_4f80b6bf7d4d2957f6f148da43d333ad564cb08e/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.4.0_fdbb935e7a021a67451b2f0df2d0d13194049834/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.4.0_44e33a90d55797e72a44f0be5154bb66b476b2ec/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.4.0_bfa38400bb1efbef8b4ccf67805298e46a512c90/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.4.0_6ac3c0922b748a0180ac9298f39467c86863cd6c/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_e78c907323bd74fbca8ab6c7c5d5fa078808b69a/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="104520c87d50d9a28e09463ad237a38b10b9f5a0">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5ce720ea2ce22cc92b8e5b523aed9e1c3f018b40/classes.dex" />
+    </item>
+    <item
+        jar="/Users/deebruce/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_126ad415e17f57c79a4aa48e0b61f8483e45dbc9/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.4.0_97877aa0239f9983f2f679061c63097c335a9715/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.4.0_212a54e3f8246165e4022a48f580ec4b3dfdc618/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/libs/Parse-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2a812174191af5a4513a873602a765b0171f252c">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/2/Parse-1.6.0_936b2dc969393a9c679709d3604e625364794b27/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_d3db0bc71b0f22a9fe13acd38042fec427711bd3/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.4.0_3df18defc770dca8128c940585c55931eae914a3/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.4.0_00a8f59cb1637e2e369241281d3bae9cfc4b0f36/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.4.0_b48d9c77bbe6a079faf2248df2150b9fb27d056f/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_a2c48027754a2c086e6e93a7c5f8ad90d0aa9e1b/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_074ab512e10faf63b09270515440ced800d91257/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.4.0_00da5fb03afea3543956f07f2b20ed39f94e7b3f/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.4.0_fba173651fe127b54b5c9a4884c8944d79daee5b/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.4.0_5648135f7ef7390832e5b328354fb719cf56ff6d/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_8d09c3e016f98a3b94c0a7b469a2797456d7d0b4/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.4.0_d7f6007f8f93b5ccefed5ad1ad6c8d0338f29b94/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.4.0_3d97a7dc27dc0bdfb911a43d79c44f0ce98ee96c/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.4.0_f23057ae0fb61c1e73f983799fd8611ce9f57cee/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_7890cdfa05c6e0a16df639a2d453f4608e140340/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.4.0_54e0a3449f4e4315aad54cf33b9801bcaa13b8d9/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="50969c2715a9142e46dff662abd4f549a37b1593">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e872d60be093f76a9167f17614fe0349eea24116/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.4.0_1d0c3b15b0e9dcc12413aafd8455ee92d64ff089/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.4.0_5475c1f915cb8d193abec6ad74e5a41f9af17690/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.4.0_70bd77db07be5dcd4f537e02c91ad8bb25a48327/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.4.0_4b7d84475916b8ea817aa22cb547a3fe46e4ef19/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_65029612e630153e36d330645c1051e79b4e9706/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.4.0_014ea1446a40e8d1eb0f7293dcb3b7fd2c632321/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.4.0_3109ff16a52e2cf58202992d5f66647bd91d6f34/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.4.0_2847a6108f47ebba3604a3499513788eb5161e9a/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.4.0_0c9d539abdc0721018ba86bde4e468a093ea8723/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.4.0_0107fec9df0ba8878a422f40f610e0a6dd6c6de7/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.4.0_08335d974351bdfb226a14424c917cd3389c6ff5/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.4.0_48f31a3feb9344da7b0f20136da22de8f14a301f/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.4.0_b63c4f3eb1b12f50ab6793f7b381f3445dafc7ec/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_0e5af7e586c68814d2e7d481dd4279704e49ac2d/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.4.0_bf6a05c9f6f905cef93e2a13e62840508e200825/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.4.0_9c0be72fd71e2e7de35c5ba814e797b07c3e3d77/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.4.0_7ef80eeb4c29d07cb48d23e5c6ec4dcf13644b18/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.4.0_3abca51dddb6a51a712fa57e3366c63501780a08/classes.dex" />
+    </item>
+    <item
+        jar="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Developer/Android/Beta/deciantis34-towbuddy-beta-85d0ee5eca01/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_e68e3e02d4c56ea4b0a31a46d1dd8106ad59cac1/classes.dex" />
+    </item>
+
+</items>
